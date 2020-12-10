@@ -1,0 +1,70 @@
+/*LA VERITABLE MISE EN FORME COMMENCE ICI  */
+header{
+	background-color:black;width:auto;height: 4.5%;
+	padding-top: 0.6%;
+}
+input{
+	height: 20px;width: 140px;
+	background-color: rgb(232,232,232);
+	display: inline;
+}
+form{
+	display:flex;
+	text-align: right;
+	padding-left: 60%;position:relative;
+	border:5px solid black;
+	}
+.button{
+	height: 20px;width: 100px;
+}
+nav{display:inline-block;
+	background-color: white;
+	font-family: georgia;
+	height: 30%;width: 100%
+
+}
+img{
+display: inline;
+}
+.recherche{
+	color:grey;display:inline;padding-left: 60%;
+}
+.case-recherche{
+	width: 40px;border-radius: 10px;margin-top: 5.5%;
+	height: 20;margin-right: 15%;float: right;
+}
+.titre_connexion{
+	color:blue;background-color: white;
+	font-size: 30px;text-align: center;	}
+footer{
+	text-align: center;background-color:rebeccapurple;
+	color:white;
+}
+section{
+	display: block;background-color: rebeccapurple;
+	color:white;font-family: georgia;height:250px;
+}
+#part{
+	display: inline-table;float: left;
+	margin-left: 100px
+}
+#liens{
+	display: inline-table;margin-right:90px
+	margin-left: 90px
+}
+#contacts{
+	display: inline-table;float: right;
+	margin-right: 100px
+
+}
+
+
+
+
+
+
+
+
+
+
+

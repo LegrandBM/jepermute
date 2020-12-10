@@ -1,0 +1,39 @@
+header{display: flex;
+background-color:rgb(73,37,169);height: 500px;
+position: fixed;right: 0;left: 0;top: 0;d
+;font-family: times;font-size: 30px;
+color: white;padding-left: 250px;
+padding-top: 70px;
+}
+header p{
+	margin:-20px 0 0 -100px;
+}
+.degrade{
+	background: linear-gradient(#0B1A98, white);
+}
+img{
+	height: 90px;width: 90px;
+	border:2px solid none;
+	border-radius: 45px;
+	margin:-30px 0 0 -250px;
+}
+nav p{
+	font-family: georgia;size: 50px;color: blue;
+	text-align: center;width: 110px;
+	position: relative;margin: 400px 0 0 650px;
+}
+a:hover{
+color:yellow;
+}
+
+footer{
+	background-color:rgb(73,37,169);height: 80px;
+position: fixed;right: 0;left: 0;bottom: 0;	
+}
+#degradepied{
+	background: linear-gradient(white,#0B1A98);}
+footer div{
+	font-family: times;font-size: 15px;text-align: center;
+color: white;margin-top: 2.5%;
+
+}

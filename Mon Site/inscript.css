@@ -1,0 +1,64 @@
+#degradecorps{
+    background: linear-gradient(#0B1A98,white,#0B1A98);}
+/*Css entete.......................*/
+header{
+    	font-family:times;color:white;font-size: 12px;
+    	background-color:#8A0827;height: 40px;
+    	display:inline-flex;margin-top: -8px;
+    	position:fixed;right: 0;left: 0;top: 0;z-index: 600	
+        }
+    header a{
+        font-family: Cooper;color:white;
+        font-size: 12px;
+        }
+
+/*Css logo.......................*/
+#logo{position: fixed;
+    		margin:-75px 0 0 10px;border:5px solid #8A0827;
+    		height: 30px;width: 30px;z-index: 601;
+    		border-radius: 20px
+            }
+
+ 
+/*Css du formulaire*/
+#cadre_form{
+    margin:80px 0 0 250px;border:2px solid white;height: 500px;width: 800px;
+    font-family: verdana;text-align: center;
+}
+form :hover form {
+    border:4 solid grey;width: 830px;
+}
+#signup{
+	font-family:times;color:white;font-size: 15px;
+}
+#valider{position: relative;
+	height: 30px;width: 90px;border-color:#03716A;
+	border-radius: 8px solid white;
+	background-color: #03716A;margin:50px 50px 0 0;font-family: Cooper;color:white;
+}
+input{position:relative;display: block;
+        height: 22px;width: 200px;margin-right: 20px;
+        background-color: #DAEAE9;border: 2px solid none;border-radius: 5px;float: right;  
+    }
+select{position:relative;display: block;
+        height: 27px;width: 209px;margin-right: 20px;
+        background-color: #DAEAE9;border: 3px solid none;border-radius: 5px;float: right;  
+    }
+label{position: relative;
+    float: left;margin-left: 50px;
+}
+
+//Css du pieds
+footer{
+height: 80px;
+position: fixed;right: 0;left: 0;bottom: 0;	
+z-index: 2;
+}
+footer div{position: relative;margin-top: 50px;
+    font-family: times;font-size: 15px;text-align: center;
+color:white;
+}
+
+#degradepied{
+    background: linear-gradient(white,#0B1A98);}
+   
